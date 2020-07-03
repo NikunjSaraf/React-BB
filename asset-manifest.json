@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-BB/static/css/main.ed5e22ba.chunk.css",
+    "main.js": "/React-BB/static/js/main.75008e88.chunk.js",
+    "main.js.map": "/React-BB/static/js/main.75008e88.chunk.js.map",
+    "runtime-main.js": "/React-BB/static/js/runtime-main.f88d3690.js",
+    "runtime-main.js.map": "/React-BB/static/js/runtime-main.f88d3690.js.map",
+    "static/js/2.d8f56912.chunk.js": "/React-BB/static/js/2.d8f56912.chunk.js",
+    "static/js/2.d8f56912.chunk.js.map": "/React-BB/static/js/2.d8f56912.chunk.js.map",
+    "index.html": "/React-BB/index.html",
+    "precache-manifest.8478fd7f69f78887467d452d5ad4408b.js": "/React-BB/precache-manifest.8478fd7f69f78887467d452d5ad4408b.js",
+    "service-worker.js": "/React-BB/service-worker.js",
+    "static/css/main.ed5e22ba.chunk.css.map": "/React-BB/static/css/main.ed5e22ba.chunk.css.map",
+    "static/js/2.d8f56912.chunk.js.LICENSE.txt": "/React-BB/static/js/2.d8f56912.chunk.js.LICENSE.txt",
+    "static/media/bb.png": "/React-BB/static/media/bb.dfca1fa5.png",
+    "static/media/App.css": "/React-BB/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/React-BB/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/React-BB/static/media/spinner.235b9b3e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f88d3690.js",
+    "static/js/2.d8f56912.chunk.js",
+    "static/css/main.ed5e22ba.chunk.css",
+    "static/js/main.75008e88.chunk.js"
+  ]
+}
